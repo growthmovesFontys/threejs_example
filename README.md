@@ -45,7 +45,3 @@ Dit is een voorbeeldproject dat laat zien hoe je een eenvoudige 3D-scène kunt m
 - Three.js voor 3D-graphics
 - Vite als ontwikkelserver en bouwtool
 - Webpack (optioneel, gebruikt voor bundeling)
-
-## Licentie
-
-Dit project valt onder de ISC-licentie. Zie het `LICENSE` bestand voor meer info.
