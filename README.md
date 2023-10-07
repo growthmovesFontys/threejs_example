@@ -13,7 +13,7 @@ Dit is een voorbeeldproject dat laat zien hoe je een eenvoudige 3D-scène kunt m
 
 1. **Kloon de Repository**:
    ```bash
-   git clone https://github.com/jouwGithubGebruikersnaam/threejs-vite-example.git
+   git clone https://github.com/growthmovesFontys/threejs_example.git
    ```
 2. **Ga naar de Projectmap**:
 
